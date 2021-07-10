@@ -939,7 +939,7 @@ input {
     column-gap: 2.5rem;
   }
 
-  .home__infp {
+  .home__info {
     bottom: 3rem;
   }
 
@@ -1015,7 +1015,7 @@ input {
   }
 
   .home__container {
-    grid-template-columns: 2fr .5fr;
+    grid-template-rows: 2fr .5fr;
   }
 
   .home__info {
@@ -1108,5 +1108,5 @@ input {
   .home__container, .home__img {
     height: 640px;
   }
-} 
+}
 
